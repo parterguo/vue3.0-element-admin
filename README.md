@@ -1,2 +1,24 @@
-# vue3.0-elemnt-admin
-vue-cli3.0+element-admin
+# vue3.0-element-admin
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+
